@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.amegung.aribcsub.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.amegung.aribcsub.MyBundle
 
 class MyApplicationService {
 
